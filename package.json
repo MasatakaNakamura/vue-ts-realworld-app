@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "core-js": "^3.6.4",
+    "core-js": "3",
     "dompurify": "^2.0.17",
     "lockr": "^0.8.5",
     "marked": "^0.8.2",
